@@ -1,3 +1,9 @@
+*{
+    margin: 5;
+    padding: 5;
+    /* text-decoration:none; */
+}
 body{background-color: rgb(66, 66, 66);}
 button{color: rgb(99, 4, 177); background-color:rgb(27, 136, 0); font-family: 'Rubik Iso', cursive; }
 label{color: blanchedalmond;}
+.formulario{font-family: 'Source Code Pro', monospace;}
